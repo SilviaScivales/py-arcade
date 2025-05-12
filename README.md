@@ -1,4 +1,4 @@
-# 🎮 Py-Arcade
+# 🎮 Python Arcade
 
 A collection of simple yet fun Python-based arcade games that showcase interactive gameplay and personalized experiences.
 
